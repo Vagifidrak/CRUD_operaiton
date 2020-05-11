@@ -1,0 +1,17 @@
+C:\Users\МММ\source\repos\StoreProject\Store.Services\obj\Debug\Store.Services.csprojAssemblyReference.cache
+C:\Users\МММ\source\repos\StoreProject\Store.Services\obj\Debug\Store.Services.csproj.CoreCompileInputs.cache
+C:\Users\МММ\source\repos\StoreProject\Store.Services\bin\Debug\Store.Services.dll.config
+C:\Users\МММ\source\repos\StoreProject\Store.Services\bin\Debug\Store.Services.dll
+C:\Users\МММ\source\repos\StoreProject\Store.Services\bin\Debug\Store.Services.pdb
+C:\Users\МММ\source\repos\StoreProject\Store.Services\bin\Debug\EntityFramework.dll
+C:\Users\МММ\source\repos\StoreProject\Store.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\МММ\source\repos\StoreProject\Store.Services\bin\Debug\Store.Database.dll
+C:\Users\МММ\source\repos\StoreProject\Store.Services\bin\Debug\StoreEntities.dll
+C:\Users\МММ\source\repos\StoreProject\Store.Services\bin\Debug\Store.Database.pdb
+C:\Users\МММ\source\repos\StoreProject\Store.Services\bin\Debug\Store.Database.dll.config
+C:\Users\МММ\source\repos\StoreProject\Store.Services\bin\Debug\StoreEntities.pdb
+C:\Users\МММ\source\repos\StoreProject\Store.Services\bin\Debug\EntityFramework.xml
+C:\Users\МММ\source\repos\StoreProject\Store.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\МММ\source\repos\StoreProject\Store.Services\obj\Debug\Store.Services.csproj.CopyComplete
+C:\Users\МММ\source\repos\StoreProject\Store.Services\obj\Debug\Store.Services.dll
+C:\Users\МММ\source\repos\StoreProject\Store.Services\obj\Debug\Store.Services.pdb

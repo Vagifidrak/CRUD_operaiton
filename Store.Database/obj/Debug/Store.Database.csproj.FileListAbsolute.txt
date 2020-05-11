@@ -1,0 +1,17 @@
+C:\Users\МММ\source\repos\StoreProject\Store.Database\bin\Debug\Store.Database.dll.config
+C:\Users\МММ\source\repos\StoreProject\Store.Database\bin\Debug\Store.Database.dll
+C:\Users\МММ\source\repos\StoreProject\Store.Database\bin\Debug\Store.Database.pdb
+C:\Users\МММ\source\repos\StoreProject\Store.Database\bin\Debug\EntityFramework.dll
+C:\Users\МММ\source\repos\StoreProject\Store.Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\МММ\source\repos\StoreProject\Store.Database\bin\Debug\StoreEntities.dll
+C:\Users\МММ\source\repos\StoreProject\Store.Database\bin\Debug\StoreEntities.pdb
+C:\Users\МММ\source\repos\StoreProject\Store.Database\bin\Debug\EntityFramework.xml
+C:\Users\МММ\source\repos\StoreProject\Store.Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\МММ\source\repos\StoreProject\Store.Database\obj\Debug\Store.Database.csprojAssemblyReference.cache
+C:\Users\МММ\source\repos\StoreProject\Store.Database\obj\Debug\Store.Database.csproj.CoreCompileInputs.cache
+C:\Users\МММ\source\repos\StoreProject\Store.Database\obj\Debug\Store.Database.csproj.CopyComplete
+C:\Users\МММ\source\repos\StoreProject\Store.Database\obj\Debug\Store.Database.dll
+C:\Users\МММ\source\repos\StoreProject\Store.Database\obj\Debug\Store.Database.pdb
+C:\Users\МММ\source\repos\StoreProject\Store.Database\obj\Debug\Store.Database.csproj.GenerateResource.cache
+C:\Users\МММ\source\repos\StoreProject\Store.Database\obj\Debug\Store.Database.Migrations.changeTable.resources
+C:\Users\МММ\source\repos\StoreProject\Store.Database\obj\Debug\Store.Database.Migrations.CatImageUrl.resources

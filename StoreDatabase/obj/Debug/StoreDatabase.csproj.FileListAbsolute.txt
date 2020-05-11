@@ -1,0 +1,16 @@
+C:\Users\МММ\source\repos\StoreProject\StoreDatabase\bin\Debug\StoreDatabase.dll.config
+C:\Users\МММ\source\repos\StoreProject\StoreDatabase\bin\Debug\StoreDatabase.dll
+C:\Users\МММ\source\repos\StoreProject\StoreDatabase\bin\Debug\StoreDatabase.pdb
+C:\Users\МММ\source\repos\StoreProject\StoreDatabase\bin\Debug\EntityFramework.dll
+C:\Users\МММ\source\repos\StoreProject\StoreDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\МММ\source\repos\StoreProject\StoreDatabase\bin\Debug\StoreEntities.dll
+C:\Users\МММ\source\repos\StoreProject\StoreDatabase\bin\Debug\StoreEntities.pdb
+C:\Users\МММ\source\repos\StoreProject\StoreDatabase\bin\Debug\EntityFramework.xml
+C:\Users\МММ\source\repos\StoreProject\StoreDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\МММ\source\repos\StoreProject\StoreDatabase\obj\Debug\StoreDatabase.csprojAssemblyReference.cache
+C:\Users\МММ\source\repos\StoreProject\StoreDatabase\obj\Debug\StoreDatabase.csproj.CoreCompileInputs.cache
+C:\Users\МММ\source\repos\StoreProject\StoreDatabase\obj\Debug\StoreDatabase.csproj.CopyComplete
+C:\Users\МММ\source\repos\StoreProject\StoreDatabase\obj\Debug\StoreDatabase.dll
+C:\Users\МММ\source\repos\StoreProject\StoreDatabase\obj\Debug\StoreDatabase.pdb
+C:\Users\МММ\source\repos\StoreProject\StoreDatabase\obj\Debug\StoreDatabase.Migrations.InitialTable.resources
+C:\Users\МММ\source\repos\StoreProject\StoreDatabase\obj\Debug\StoreDatabase.csproj.GenerateResource.cache

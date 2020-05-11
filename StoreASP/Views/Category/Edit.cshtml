@@ -1,0 +1,16 @@
+﻿@model StoreEntities.Category
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+<form method="post" name="Name">
+    <input type="text" name="ID" value="@Model.ID"/>
+    <label> Name</label>
+    <input type="text" name="@Model.Name" />
+    <label> Description</label>
+    <input type="text" name="@Model.Description" />
+
+    <button class="btn">Save</button>
+
+</form>
