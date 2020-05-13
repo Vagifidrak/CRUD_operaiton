@@ -1,0 +1,14 @@
+﻿@model List<StoreEntities.Product>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<div id="ProductContainer">
+
+    @{
+        Html.RenderAction("ProductTable");
+        //Html.RenderAction("Create");
+    }
+
+</div>

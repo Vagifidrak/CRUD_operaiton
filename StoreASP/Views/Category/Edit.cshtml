@@ -5,11 +5,11 @@
 
 <h2>Edit</h2>
 <form method="post" name="Name">
-    <input type="text" name="ID" value="@Model.ID"/>
+    <input type="hidden" name="ID" value="@Model.ID"/>
     <label> Name</label>
-    <input type="text" name="@Model.Name" />
+    <input type="text" name="Name" value="@Model.Name"/>
     <label> Description</label>
-    <input type="text" name="@Model.Description" />
+    <input type="text" name="Description" value="@Model.Description" />
 
     <button class="btn">Save</button>
 

@@ -1,0 +1,51 @@
+﻿@model List<StoreEntities.Product>
+@{
+    ViewBag.Title = "ProductTable";
+}
+
+<h2>ProductTable</h2>
+
+<form method="get">
+    <input type="text" id="searchTxt"/>
+    <button type="button" id="searchBtn">Search</button>
+</form>
+<button id="newBtn">New</button>
+<table class="table table-bordered" >
+    <thead>
+        <tr>
+            <th>Product Name</th>
+            <th>Description</th>
+            <th>Category</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product  in Model)
+        {
+            <tr>
+                <td>@product.Name</td>
+                <td>@product.Description</td>
+                <td>@product.Category</td>
+                <td>@product.Price</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<script>
+    $("#searchBtn").click(function () {
+
+        var searchVal = $("#searchTxt").val()
+
+        $.ajax({
+            url: "/Product/ProductTable",
+            data: {
+                search: searchVal
+            }
+        }).done(function (res) {
+           $("#ProductContainer").html(res)
+                }).fail(function () {
+                    alert("fail")
+                })
+    }) 
+</script>
